@@ -1,4 +1,4 @@
-# Exercise-02a-Ship
+# Exercise-02a/02b-Ship
 
 Exercise for MSCH-C220
 
